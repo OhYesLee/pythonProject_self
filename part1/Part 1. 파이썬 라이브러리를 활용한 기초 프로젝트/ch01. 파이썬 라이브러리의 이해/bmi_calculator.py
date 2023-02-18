@@ -8,3 +8,4 @@ weight = int(weight)
 BMI = weight/(height*height)*10000
 
 print("BMI:", BMI)
+print('화이팅 합시다!!!')
